@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          GIT ACTIVED
+          GIT ACTIVED TUS MUERTOS
         </p>
         <a
           className="App-link"
